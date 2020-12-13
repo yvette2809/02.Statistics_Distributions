@@ -6,5 +6,8 @@ class Distribution:
 		Generic distribution class for calculating and visualizing a probability distribution.
 		
 		Attributes:
-		
+		mean (float):
+		stdev (float):
+		data (
+		:
 		"""
